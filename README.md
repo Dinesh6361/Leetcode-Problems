@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [1484-group-sold-products-by-the-date](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1484-group-sold-products-by-the-date) |
 ## Array
 |  |
