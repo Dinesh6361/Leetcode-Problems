@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1507-reformat-date](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1507-reformat-date) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
