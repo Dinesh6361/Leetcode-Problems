@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## String
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3270-find-the-key-of-the-numbers](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
