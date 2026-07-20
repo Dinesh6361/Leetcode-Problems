@@ -25,5 +25,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3270-find-the-key-of-the-numbers](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
