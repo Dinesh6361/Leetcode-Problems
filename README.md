@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
