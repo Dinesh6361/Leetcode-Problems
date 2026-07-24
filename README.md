@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1507-reformat-date](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1507-reformat-date) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0067-add-binary) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3270-find-the-key-of-the-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
