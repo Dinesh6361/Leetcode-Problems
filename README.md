@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
