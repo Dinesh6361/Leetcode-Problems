@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1507-reformat-date](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1507-reformat-date) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Math
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dinesh6361/Leetcode-Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
